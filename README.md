@@ -1,18 +1,18 @@
 # pythonproject
 Exploratory Data Analysis on Laptop Sales Dataset
-# 📊 Exploratory Data Analysis on Laptop Sales Dataset
+# Exploratory Data Analysis on Laptop Sales Dataset
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-Data--Analysis-green)
 ![EDA](https://img.shields.io/badge/EDA-Exploratory%20Data%20Analysis-orange)
 
-## 📌 Project Overview
+## Project Overview
 
 This project involves performing **Exploratory Data Analysis (EDA)** on a dataset containing information about laptop sales. The goal is to uncover trends, outliers, correlations, and patterns to assist in business decision-making using Python libraries like Pandas, Matplotlib, and Seaborn.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Understand the structure and distribution of the data
 - Clean and preprocess the data (missing values, outliers, inconsistencies)
@@ -22,7 +22,7 @@ This project involves performing **Exploratory Data Analysis (EDA)** on a datase
 
 ---
 
-## 🗂️ Dataset Information
+##  Dataset Information
 
 The dataset includes details such as:
 - Laptop Brand and Model
@@ -35,7 +35,7 @@ The dataset includes details such as:
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - Python 3.x
 - Pandas
@@ -46,7 +46,7 @@ The dataset includes details such as:
 
 ---
 
-## 🔁 Project Workflow
+##  Project Workflow
 
 1. Data Import & Inspection
 2. Data Cleaning
@@ -60,7 +60,7 @@ The dataset includes details such as:
 
 ---
 
-## 📈 Key Insights
+##  Key Insights
 
 - 2GB RAM laptops sell the most
 - Accessories boost sales when bundled with base models
@@ -69,13 +69,13 @@ The dataset includes details such as:
 
 ---
 
-## 🧠 Business Impact
+##  Business Impact
 
 The analysis suggests businesses should focus on bundling strategies and stock laptops with specific configurations (like 2GB RAM) to maximize sales and reduce excess inventory.
 
 ---
 
-## 📝 How to Run
+##  How to Run
 
 1. Clone the repo:
    ```bash
